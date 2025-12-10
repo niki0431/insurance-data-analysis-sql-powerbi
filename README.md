@@ -1,4 +1,5 @@
 **End-to-end insurance data analysis — cleaned in Excel, loaded into SQL, and visualized in Power BI to explore claim patterns, risk factors, and business insights.**
+
 This project provides a complete analytical view of insurance claims, premiums, policies, and customer retention using Power BI. It integrates multiple data sources, uses optimized modeling, and includes advanced DAX measures for decision-making.
 
 **📁 Folder Structure**
@@ -45,7 +46,7 @@ Insurance-Analytics-Dashboard/
 
 **💡 Features**
 
- Created dashboards for claims, premiums, policies, and retention.
+ - Created dashboards for claims, premiums, policies, and retention.
 
  Built DAX KPIs for claim settlement, loss ratio, and processing time.
 
